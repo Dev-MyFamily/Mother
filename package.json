@@ -2,7 +2,7 @@
     "name": "mothers-day-site",
     "version": "1.0.0",
     "private": true,
-    "homepage": "http://Dev-MyFamily.github.io/ProjectMyMother",
+    "homepage": "http://Dev-MyFamily.github.io/Mother",
     "dependencies": {
         "@svgr/plugin-svgo": "^6.0.0",
         "@svgr/webpack": "^6.0.0",
